@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "targil2", "targil2\targil2.nproj", "{AD4FC57A-DE80-4EE2-8540-6CBB020AC434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4FC57A-DE80-4EE2-8540-6CBB020AC434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4FC57A-DE80-4EE2-8540-6CBB020AC434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4FC57A-DE80-4EE2-8540-6CBB020AC434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4FC57A-DE80-4EE2-8540-6CBB020AC434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2955B5-B482-4E0C-9F69-6F70E912F5C7}
+	EndGlobalSection
+EndGlobal
